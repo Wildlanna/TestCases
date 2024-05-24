@@ -11,3 +11,10 @@ Examples of test cases
 | 3. click on the  empty login field for Email| -entered email to the empty field (email : ema.zelena23@gmail.com) | -reset old password and login with new password |The system should successfully log in the user with a new password|
 | 4. click on the empty login field for password| -	entered password to the empty field(password : 1111) | -- | -- |
 | 5. click on the button - Login| Expected result:The system should successfully log in the user and redirect him to his profile page. | -- | -- |
+
+
+|Another tests  | Expected result|
+|---|---|
+|-try to login with invalid email|The system should error mesagge about an invalid email|
+|-try to login with invalid password |The system should error mesagge about an invalid password|
+| -reset old password and login with new password |The system should successfully log in the user with a new password|
