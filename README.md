@@ -1,7 +1,7 @@
 # TestCases
 Examples of test cases
 
-#### Testcase /login of fake account /link: www.profesia.sk
+#### Testcase /account login/link: www.profesia.sk
 ##  Decription / Expected result: user can log in successfull
 
 | Steps |           | Another tests  | Expected result|
